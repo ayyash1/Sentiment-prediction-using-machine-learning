@@ -18,7 +18,7 @@ User reviews provide valuable insights into customer satisfaction, preferences, 
 - **NLTK (Natural Language Toolkit)**: Used for text preprocessing, including tokenization, stopword removal, and stemming.
 - **Scikit-Learn**: Provides various machine learning algorithms and tools for model evaluation.
 - **Pandas and NumPy**: Used for data manipulation and numerical operations.
-- **Jupyter Notebook**: For code exploration, testing, and visualization.
+- **Google colab Notebook**: For code exploration, testing, and visualization.
 
 ## Project Workflow
 
