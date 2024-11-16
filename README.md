@@ -59,7 +59,7 @@ pip install nltk scikit-learn pandas numpy
 
 1. **Download or Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/sentiment-analysis
+   git clone [https://github.com/ayyash1/Sentiment-prediction-using-machine-learning.git]
    cd sentiment-analysis
    ```
 
@@ -96,8 +96,5 @@ The model achieved a satisfactory accuracy on the test set, demonstrating its ef
 ## Contributing
 
 Contributions to improve this sentiment analysis model are welcome! Please create a pull request or open an issue if you have suggestions or feature requests.
-```
 
----
 
-This Markdown file should work directly when pasted into a README.md file on GitHub.
